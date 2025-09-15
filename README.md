@@ -8,7 +8,7 @@ Key breakthrough: In simulations, QGD outperforms GR by **500%** on chi²/dof fi
 
 - **arXiv Paper**: Coming soon! (v1, Sept 2025)
 - **Author**: Elliott Hankinson Jr., CEO, NeuralLoot Systems Inc.
-- **Based on**: Krulik (2024) preprint, extended by NeuralLoot.
+- **Inspired By**: Krulik (2024) preprint, extended by NeuralLoot.
 
 ## 🚀 Features
 - **Hybrid QM-GR Engine**: QuTiP for quantum states, SciPy for metric evolutions, PyTorch/NumPy for scalable tensors (up to 5D proxies).
