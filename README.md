@@ -1,6 +1,6 @@
 # NeuralLoot QGD-Sim: Quantum Geometric Dynamics Simulations
 
-[![arXiv](https://img.shields.io/badge/arXiv-2509.XXXX-blue.svg)](https://arxiv.org/abs/2509.XXXX) [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Stars](https://img.shields.io/github/stars/neuralloot/qgd-sim?style=social)]
+[![arXiv](https://img.shields.io/badge/arXiv-2509.XXXX-blue.svg)](https://arxiv.org/abs/2509.XXXX) [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Stars](https://img.shields.io/github/stars/neuralloot-systems/qgd-sim?style=social)
 
 **Quantum Geometric Dynamics (QGD)** is NeuralLoot Systems Inc.'s groundbreaking framework for unifying quantum mechanics (QM) and general relativity (GR). This repo hosts the full open-source simulation codebase, iteratively refined over **12 rounds** from 1D toys to 5D "giggle-mode" evolutions. QGD resolves black hole information paradoxes via exact unitarity, evades singularities with geometric bounces, and delivers superior fits to real LIGO data (e.g., GW150914 H1 strains from GWOSC HDF5).
 
