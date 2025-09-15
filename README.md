@@ -18,7 +18,8 @@ Key breakthrough: In simulations, QGD outperforms GR by **500%** on chi²/dof fi
 - **Escalating Rounds**: 12 progressive tests—from baselines to 5D absurdities—proving QGD's edge.
 - **Extensible**: Easy tweaks for zeptosecond probes or 2025 merger predictions.
 
-<img/>https://github.com/NeuralLoot-Systems-Inc/qgd-sim/blob/main/images/qgd_round12_visualization_20250915_123709.png</>
+![QGD Round 12 Visualization](https://raw.githubusercontent.com/NeuralLoot-Systems-Inc/qgd-sim/main/images/qgd_round12_visualization_20250915_123709.png)
+*Round 12: Scale factor bounce, QGD strain vs. LIGO fit (chi²_h ≈ 1.87e-42).*
 
 ## 📦 Installation
 Clone and install in a Python 3.8+ env (tested on 3.12). No extras needed—leverages pre-installed libs like NumPy, SciPy, QuTiP.
