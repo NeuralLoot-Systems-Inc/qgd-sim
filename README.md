@@ -25,3 +25,5 @@ Clone and install in a Python 3.8+ env (tested on 3.12). No extras needed—leve
 git clone https://github.com/NeuralLoot-Systems-Inc/qgd-sim.git
 cd qgd-sim
 pip install -r requirements.txt  # Optional: numpy scipy qutip torch matplotlib
+
+<img width="5368" height="3543" alt="qgd_round12_visualization_20250915_123709" src="https://github.com/user-attachments/assets/01a232c3-f822-44a8-a819-ad333309bc0d" />
