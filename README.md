@@ -6,7 +6,7 @@
 
 Key breakthrough: In simulations, QGD outperforms GR by **500%** on chi²/dof fits, predicting 40% lower ringdown residuals for the September 11, 2025 LIGO merger. Mind-blowing? Yes. Testable? Absolutely—run the code and see.
 
-- **arXiv Paper**: [Quantum Geometric Dynamics: 12-Round Iterative Numerical Proof...](https://arxiv.org/abs/2509.XXXX) (v1, Sept 2025)
+- **arXiv Paper**: [Quantum Geometric Dynamics: 12-Round Iterative Numerical Proof...](v1, Sept 2025)
 - **Author**: Elliott Hankinson Jr., CEO, NeuralLoot Systems Inc.
 - **Based on**: Krulik (2024) preprint, extended by NeuralLoot.
 
