@@ -24,7 +24,6 @@ Key breakthrough: In simulations, QGD outperforms GR by **500%** on chi²/dof fi
 ## Dust-Enhanced Merger Sims
 New: `qgd_fork_sim.py` for GW190521 with supernova dust (rho=5.0). Stress-tests bounces under high load—no singularities, perfect unitarity.
 Run: `python qgd_fork_sim.py` → Outputs PNG plots.
-Collab hook: Ties to @ExploreCosmos_ dust threads.
 
 ![QGD Bounce Visualization](https://raw.githubusercontent.com/NeuralLoot-Systems-Inc/qgd-sim/main/images/qgd_fork_stress_test.png)
 *QGD bounce simulation with amped dust (ρ=5.0)*
