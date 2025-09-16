@@ -182,13 +182,14 @@ def plot_results(results, filename='qgd_edge_full.png'):
         plt.suptitle('QGD Stress Test Variants: Universe-Scale Bounces')
         plt.tight_layout()
         
-        # Save
+        # Save stress test plot
         desktop_path = os.path.expanduser("~/Desktop/QGD_Round12_Results")
         os.makedirs(desktop_path, exist_ok=True)
         output_file = os.path.join(desktop_path, 'qgd_stress_test_variants.png')
         plt.savefig(output_file, dpi=300, bbox_inches='tight')
         print(f"✅ Stress test plot saved as {output_file}")
         plt.close()
+        return  # Exit early for stress test
     else:
         # Single Run Plot: Expanded 5-panel with 5D heatmap
         fig, axes = plt.subplots(5, 1, figsize=(12, 20))
