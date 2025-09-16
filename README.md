@@ -21,6 +21,11 @@ Key breakthrough: In simulations, QGD outperforms GR by **500%** on chi²/dof fi
 ![QGD Round 12 Visualization](https://raw.githubusercontent.com/NeuralLoot-Systems-Inc/qgd-sim/main/images/qgd_round12_visualization_20250915_123709.png)
 *Round 12: Scale factor bounce, QGD strain vs. LIGO fit (chi²_h ≈ 1.87e-42).*
 
+## Dust-Enhanced Merger Sims
+New: `qgd_fork_sim.py` for GW190521 with supernova dust (rho=5.0). Stress-tests bounces under high load—no singularities, perfect unitarity.
+Run: `python qgd_fork_sim.py` → Outputs PNG plots.
+Collab hook: Ties to @ExploreCosmos_ dust threads.
+
 ## 📦 Installation
 Clone and install in a Python 3.8+ env (tested on 3.12). No extras needed—leverages pre-installed libs like NumPy, SciPy, QuTiP.
 
