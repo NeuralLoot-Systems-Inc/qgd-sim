@@ -10,6 +10,7 @@
 # - Stress-test variants: baseline, amped (ρ_d=5, ρ_r=0.5), edge (ρ_d=10, ρ_r=1, λ=15).
 # - MIT License preserved; attribution to original NeuralLoot repo.
 # 
+#
 
 import numpy as np
 import matplotlib
