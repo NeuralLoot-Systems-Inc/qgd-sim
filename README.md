@@ -26,6 +26,11 @@ New: `qgd_fork_sim.py` for GW190521 with supernova dust (rho=5.0). Stress-tests 
 Run: `python qgd_fork_sim.py` → Outputs PNG plots.
 Collab hook: Ties to @ExploreCosmos_ dust threads.
 
+![QGD Bounce Visualization](https://raw.githubusercontent.com/NeuralLoot-Systems-Inc/qgd-sim/main/images/qgd_fork_stress_test.png)
+*QGD bounce simulation with amped dust (ρ=5.0)*
+
+
+
 ## 📦 Installation
 Clone and install in a Python 3.8+ env (tested on 3.12). No extras needed—leverages pre-installed libs like NumPy, SciPy, QuTiP.
 
