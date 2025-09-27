@@ -3,3 +3,4 @@ scipy>=1.11
 qutip>=4.7
 torch>=2.0
 matplotlib>=3.7
+h5py>=3.1.0
