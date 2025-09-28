@@ -66,14 +66,8 @@ pip install -r requirements.txt
 ## Quick Start
 
 ```bash
-# Run QGD v2.1 parameter optimization
-python qgd_parameter_optimization_solomon_v2_1.py
-
 # Regenerate Round 12 with real LIGO data
 python regenerate_round12_real_data.py
-
-# Run reproducibility demonstration
-python qgd_v2_1_reproducibility_demo.py
 ```
 
 ## Scientific Results
