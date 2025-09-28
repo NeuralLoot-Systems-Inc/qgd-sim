@@ -1,6 +1,6 @@
 # NeuralLoot QGD-Sim: Quantum Geometric Dynamics Simulations
 
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Published-green.svg)](https://www.researchgate.net/publication/395941188_Quantum_Geometric_Dynamics_v25_Bridging_Theoretical_Foundation_to_Experimental_Validation) [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Stars](https://img.shields.io/github/stars/NeuralLoot-Systems-Inc/qgd-sim?style=social)](https://github.com/NeuralLoot-Systems-Inc/qgd-sim)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Published-green.svg)](https://www.researchgate.net/publication/395941728_Quantum_Geometric_Dynamics_v25_Bridging_Theoretical_Foundation_to_Experimental_Validation) [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Stars](https://img.shields.io/github/stars/NeuralLoot-Systems-Inc/qgd-sim?style=social)](https://github.com/NeuralLoot-Systems-Inc/qgd-sim)
 
 **Quantum Geometric Dynamics (QGD)** is NeuralLoot Systems Inc.'s novel framework for unifying quantum mechanics and general relativity through a fully quantized Hamiltonian approach where spacetime emerges from quantum geometric operators. This repository hosts the complete open-source simulation codebase, featuring rigorous parameter optimization and experimental validation using real LIGO gravitational wave data.
 
@@ -156,7 +156,7 @@ This work represents a major advancement in quantum gravity research:
 ## Publications
 
 ### QGD v2.5 Bridge Paper (Latest):
-- **Hankinson Jr., E. (2025).** *Quantum Geometric Dynamics v2.5: Bridging Theoretical Foundation to Experimental Validation*. ResearchGate. https://www.researchgate.net/publication/395941188_Quantum_Geometric_Dynamics_v25_Bridging_Theoretical_Foundation_to_Experimental_Validation
+- **Hankinson Jr., E. (2025).** *Quantum Geometric Dynamics v2.5: Bridging Theoretical Foundation to Experimental Validation*. ResearchGate. https://www.researchgate.net/publication/395941728_Quantum_Geometric_Dynamics_v25_Bridging_Theoretical_Foundation_to_Experimental_Validation
 
 ### Previous Publications:
 - **Hankinson Jr., E. (2025).** *Quantum Geometric Dynamics v2.1: Analysis of Quantum Corrections in Gravitational Wave Data*. ResearchGate. https://www.researchgate.net/publication/395927500_Quantum_Geometric_Dynamics_v21_Analysis_of_Quantum_Corrections_in_Gravitational_Wave_Data
