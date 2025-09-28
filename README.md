@@ -66,9 +66,45 @@ pip install -r requirements.txt
 ## Quick Start
 
 ```bash
+# Run QGD v2.1 parameter optimization
+python qgd_parameter_optimization_solomon_v2_1.py
+
 # Regenerate Round 12 with real LIGO data
 python regenerate_round12_real_data.py
+
+# Run reproducibility demonstration
+python qgd_v2_1_reproducibility_demo.py
 ```
+
+## Visual Results
+
+### QGD v2.1 Multi-Event Validation
+![QGD v2.1 Multi-Event Validation](images/qgd_multi_event_comparison_v2.1_20250928_125536.png)
+*100% validation scores across all gravitational wave events (GW150914, GW170817, GW190521)*
+
+### QGD v2.1 Quantum Correction Analysis
+![QGD v2.1 Quantum Analysis](images/qgd_quantum_analysis_v2.1_20250928_125520.png)
+*Quantum correction analysis showing amplified quantum effects and phase corrections using real LIGO data*
+
+### QGD Round 12 Real Data Analysis
+![QGD Round 12 Real Data Analysis](images/qgd_round12_real_data_analysis_20250928_122619.png)
+*Real LIGO data analysis showing 5D spacetime evolution with bounce physics and quantum corrections validation*
+
+### QGD v2.1 Optimization Results
+![QGD v2.1 Optimization](images/qgd_optimization_v2.1_20250928_125506.png)
+*Main optimization plot showing QGD corrections applied to real LIGO data*
+
+### QGD v2.1 Validation Summary
+![QGD v2.1 Validation Summary](images/qgd_validation_summary_v2.1_20250928_125536.png)
+*Comprehensive validation summary showing all metrics and parameter optimization results*
+
+### QGD v2.1 Resonance Analysis
+![QGD v2.1 Resonance Analysis](images/qgd_resonance_analysis_v2.1_20250928_125531.png)
+*Resonance analysis demonstrating QGD quantum corrections in frequency domain*
+
+### QGD Round 12 Simulated vs Real Comparison
+![QGD Round 12 Simulated vs Real](images/qgd_round12_simulated_vs_real_20250928_122619.png)
+*Comparison between theoretical predictions and real LIGO data analysis*
 
 ## Scientific Results
 
