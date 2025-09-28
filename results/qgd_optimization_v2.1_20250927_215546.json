@@ -1,0 +1,44 @@
+{
+  "optimized_parameters": {
+    "quantum_scale_factor": 1.0000000377486245e-16,
+    "resonance_decay_time": 3.1674317215946675e-05,
+    "phase_scale_factor": 6.4881687977057235e-06,
+    "frequency_coupling": 0.14999999923147342,
+    "resonance_frequency": 280.0192742225316
+  },
+  "optimization_result": {
+    "success": true,
+    "iterations": 57,
+    "function_evaluations": 5842,
+    "final_objective": 436.22960757076567
+  },
+  "validation_results": {
+    "validations": {
+      "energy_conservation": true,
+      "quantum_scaling": true,
+      "phase_consistency": true,
+      "qgd_resonance": true,
+      "dra_consistency": true
+    },
+    "validation_score": 1.0,
+    "metrics": {
+      "max_qgd_effect": 7.290397155890214e-32,
+      "rms_qgd_effect": 1.0001000897472222e-32,
+      "energy_ratio": 2.707790799973402e-11,
+      "scale_ratio": 2.2219051766375015,
+      "phase_consistency": 1.145836409712081,
+      "correlation": 0.9999999999999992,
+      "resonance_strength": 5.128119337777572e-29,
+      "dra_consistency": 0.4859236671456522
+    }
+  },
+  "ligo_data": {
+    "event_name": "GW190521",
+    "detector": "H1",
+    "sample_rate": 4096.0,
+    "duration": 60.0,
+    "is_real_data": true
+  },
+  "plot_file": null,
+  "timestamp": "2025-09-27T21:55:46.187155"
+}
